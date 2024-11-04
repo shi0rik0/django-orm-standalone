@@ -1,0 +1,6 @@
+__pycache__/
+mydatabase
+
+/site_package/migrations/*
+!/site_package/migrations/__init__.py
+
